@@ -1,10 +1,10 @@
 # Exercises
 Welcome to the Cal Poly Pomona Software Engineering Association's collection of exercises! We categorize them in five areas: Communication, Development, Support, Teamwork, and Understanding.
 
-## Communication
+## :speech_balloon: Communication
 *Please check back in the near future.*
 
-## Development
+## :computer: Development
 Software Engineering takes practice. No matter your skill level, you should constantly apply yourself to a project to learn and grow. Our beginner exercises require no programming knowledge. The intermediate exercises offer hints to get started. Only a prompt is given for the advanced exercises.  
 
 ### Beginner
@@ -16,11 +16,11 @@ Software Engineering takes practice. No matter your skill level, you should cons
 ### Advanced
 *Please check back in the near future.*
 
-## Support
+## :wrench: Support
 *Please check back in the near future.*
 
-## Teamwork
+## :rocket: Teamwork
 *Please check back in the near future.*
 
-## Understanding
+## :rowboat: Understanding
 *Please check back in the near future.*
