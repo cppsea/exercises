@@ -18,3 +18,16 @@ AutomateTheBoringStuff has a great online booklet for learning the basics of Pyt
 # Exercise
 
 Alice has three dogs. For each meal, Riley needs 50 bits of dog food, Abby needs 100 bits, and Luna needs 150 bits. Write a function <code>mealsLeft</code> which takes the argument <code>dogfood</code> as the total remaining bits of dog food. <code>mealsLeft</code> should return an integer telling how many "full meals" Alice can serve to her dogs.
+
+## Hints
+
+<details>
+	<summary>Click To Open</summary>
+	
+ - Consider how many total bits it takes to feed all three dogs
+ - Use integer division to your advantage
+</details>
+
+## Extra Credit
+ - Write a function <code>howMuchDogFood</code> which takes an argument <code>meals</code> and returns how much dog food Alice should buy to have enough for that many meals
+ - Set a price for dog food bits. Rewrite the <code>howMuchDogFood</code> function to accept the argument <code>money</code> and return how much dog food Alice can afford
