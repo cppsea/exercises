@@ -14,7 +14,7 @@ Software Engineering takes practice. No matter your skill level, you should cons
 *Please check back in the near future.*
 
 ### Advanced
-*Please check back in the near future.*
+- [Paper Trading](Development/Advanced/Paper%20Trading/paper-trading.MD)
 
 ## :wrench: Support
 *Please check back in the near future.*
