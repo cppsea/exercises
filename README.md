@@ -14,6 +14,7 @@ Software Engineering takes practice. No matter your skill level, you should cons
 *Please check back in the near future.*
 
 ### Advanced
+- [Firebase Chat](Development/Advanced/Firebase%20Chat/firebase-chat.MD)
 - [Paper Trading](Development/Advanced/Paper%20Trading/paper-trading.MD)
 
 ## :wrench: Support
